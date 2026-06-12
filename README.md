@@ -27,7 +27,7 @@ The project showcases end-to-end data analytics workflows using Python and popul
 * NumPy
 * Matplotlib
 * Seaborn
-* Scikit-learn (if applicable)
+
 
 ---
 
